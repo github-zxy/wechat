@@ -1,0 +1,121 @@
+body {
+    background-image: url(../imges/wechat-photograph.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.logo {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    top: 50px;
+    color: #ccc;
+}
+
+.left {
+    display: inline-block;
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    width: 600px;
+    height: 30px;
+}
+
+.left li {
+    float: left;
+    padding: 0 5px;
+    font-size: 13px;
+}
+
+.left li a {
+    font-size: 13px;
+    color: black;
+}
+
+.left li a:hover {
+    color: #d3d3d3;
+}
+
+.langs {
+    position: absolute;
+    bottom: 50px;
+    right: 50px;
+    width: 300px;
+    height: 30px;
+    font-size: 13px;
+}
+
+
+.login {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -180px;
+    margin-top: -310px;
+    width: 380px;
+    height: 580px;
+    background-color: #fff;
+    box-shadow: 3px 1px 8px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 10px 10px;
+}
+
+.account {
+    margin: 0 auto;
+    width:250px;
+    height: 40px;
+    border: 1px solid #cccccc;
+}
+
+.clo {
+    margin: 0 auto;
+    width:250px;
+    height: 40px;
+    border: 1px solid #cccccc;
+}
+.forget{
+    width: 315px;
+    height: 30px;
+}
+
+
+/* 初始化,一
+.ring {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -180px;
+    margin-top: -310px;
+    width: 380px;
+    height: 580px;
+    background-color: #fff;
+    box-shadow: 3px 1px 8px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 10px 10px;
+}
+
+.rings, .ringss {
+    margin-top: 30px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.ring .ringss {
+    height: 50px;
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 400;
+    text-align: center;
+    color: #d3d3d3;
+}
+
+.qr_code {
+    width: 270px;
+    height: 270px;
+    background-color: #ccc;
+    margin: 40px auto 10px;
+}
+ */
